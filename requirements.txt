@@ -1,1 +1,5 @@
-streamlit==1.36.0tensorflow==2.15.0ultralytics==8.2.34Pillownumpy
+streamlit==1.36.0
+tensorflow-cpu==2.15.0
+ultralytics==8.2.34
+Pillow
+numpy
